@@ -54,8 +54,8 @@
   board: true
 
 - name: R.D. Rhobajt
-  photo: ""
-  pwc_url: https://pwcenter.org/profile/rd-rhobajt/
+  photo: "rd-rhobajt.jpg"
+  pwc_url: https://pwcenter.org/profile/r-d-rick-rhobajt-widen/
   board: false
 
 - name: Brenda Varda
