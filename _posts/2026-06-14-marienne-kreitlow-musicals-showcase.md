@@ -4,6 +4,7 @@ tags: [member-work, video]
 permalink: /member-work/2026/06/marienne-kreitlow-musicals/
 date: 2026-06-14
 title: "Marienne Kreitlow — Musicals in Motion"
+featured: false
 ---
 
 Three video highlights from NMTE member **Marienne Kreitlow's** musicals — montages and sizzle reels showcasing her range as a composer, lyricist, and book writer.
