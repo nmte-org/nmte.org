@@ -4,6 +4,7 @@ musicals: [five-minutes]
 tags: [event, news]
 permalink: /events/2026/03/16/rough-cuts-nautilus/
 date: 2026-03-16
+featured: false
 title: "Rough Cuts at Nautilus Music-Theater — March 2026"
 event_date: 2026-03-16
 time: "Monday open rehearsal; Tuesday show"

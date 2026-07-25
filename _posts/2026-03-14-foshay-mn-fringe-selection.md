@@ -4,27 +4,46 @@ musicals: [foshay]
 tags: [news]
 date: 2026-03-14
 permalink: /news/2026/03/14/foshay-mn-fringe-selection/
-title: "Kevin Bowen's \"Foshay!\" Headed to Minnesota Fringe Festival 2026 — Now Casting"
-category: "Production Announcement"
+title: "Kevin Bowen's \"Foshay!\" at Minnesota Fringe 2026"
+category: "Festival Production"
 composer: "Kevin Bowen"
 promo_image: /assets/media/foshay-2023/foshay-art.jpg
+featured: true
 ---
 
-NMTE member **Kevin Bowen** has secured a spot in the **2026 Minnesota Fringe Festival** for a 1-hour production of *Foshay!* at the **Rarig's Stoll Thrust Theatre** this summer.
+NMTE member **Kevin Bowen's** *Foshay! You Know The Tower — Now Hear The Story* has a spot in the **2026 Minnesota Fringe Festival**, playing the **Rarig Stoll Thrust Theatre** this August — a 60-minute adaptation of the full-length musical.
 
-*Foshay!* tells the story of Wilbur Foshay, the ambitious Minneapolis businessman whose iconic tower became a symbol of both aspiration and the excesses that led to the Great Depression. A collaboration between Kevin and **Lynn Bowen**, the musical premiered at Open Window Theatre in July 2023 and was featured in NMTE's 2026 New Works Cabaret at Crooners, where "If I Only Knew" was performed by Elena Glass.
+The show tells the true story of **Wilbur Foshay**, one of the richest men in America by 1929, tracing his rise through the Roaring Twenties to financial ruin in the Great Depression — a man who "lost everything, but found himself." A collaboration between **Kevin Bowen** and **Lynn Bowen**, *Foshay!* premiered at Open Window Theatre in 2023 and was featured in NMTE's 2026 New Works Cabaret at Crooners.
 
-### Casting Call
+### Cast
 
-Kevin is seeking actors by direct outreach (non-Equity). Video auditions will use songs from the show.
+- **Landon Hudson** — Wilbur Burton Foshay
+- **Elisheva Scheuer** — Leota Fox (Hutchinson) Foshay & Inspector 2
+- **Michael Chapman** — Henry Howe Henley & Reporter 3 (Joe)
+- **Jessica Peters** — Reporter 1 (Mary), Genevieve Clark, Inspector 1 & Prison Guard
+- **Samm Nordstrom** — Reporter 2 (Larry), New Hire 1, James, Léon Eugène Arnal, Lewis Drill, James Farley, Taxi Driver
 
-**Roles sought:**
-- **Wilbur Foshay** (30's–50's)
-- **Henry Henley / Additional Roles** (30's–50's) — swing
-- **Leota Foshay / Reporter / Additional Roles** (30's–50's) — swing
-- **Male Reporter / Additional Roles** — swing
-- **Male / Reporter / Additional Roles** — swing
+### Creative Team
 
-If you know actors who may be good candidates, please send their contact information to Kevin directly.
+- **Kevin Bowen** — Book, Music, Lyrics, Producer
+- **Lynn Bowen** — Book, Producer, Costumes
+- **Tyler Haugen** — Director
+- **Chantalle Falconer** — Music Director / Pianist
+- **Lily Truebenbach** — Choreographer
+- **Hailey Stobb** — Stage Manager
 
-The Minnesota Fringe Festival is one of the largest performing arts festivals in the United States. This production marks *Foshay!*'s next major milestone — from world premiere to festival stage.
+### Performances
+
+All performances at the **Rarig Stoll Thrust Theatre** (recommended for ages 12 and up):
+
+- Saturday, August 8 — 10:00 PM
+- Sunday, August 9 — 4:00 PM *(open captioned)*
+- Monday, August 10 — 8:30 PM
+- Thursday, August 13 — 5:30 PM
+- Sunday, August 16 — 7:00 PM
+
+Tickets are $25 ($20 with a Fringe button; $5 passholder reservations with a Multi-Show Pass).
+
+[**Show page &amp; tickets at Minnesota Fringe →**](https://minnesotafringe.org/shows/2026/foshay-you-know-the-tower-now-hear-the-story){:target="_blank"}
+
+The Minnesota Fringe Festival is one of the largest performing arts festivals in the United States.
