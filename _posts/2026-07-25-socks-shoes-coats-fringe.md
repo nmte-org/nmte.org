@@ -6,7 +6,7 @@ permalink: /news/2026/07/25/socks-shoes-coats-fringe/
 title: "R.D. Rhobajt's \"Socks & Shoes & Coats\" at Minnesota Fringe 2026"
 category: "Production Announcement"
 composer: "R.D. Rhobajt"
-promo_image: /assets/media/rick-fringe-2026/socks-postcard.jpg
+promo_image: /assets/media/rick-fringe-2026/socks-title.jpg
 ---
 
 NMTE member **R.D. Rhobajt** brings a new musical, *Socks & Shoes & Coats*, to the **2026 Minnesota Fringe Festival** this August at the **Barbara Barker Center for Dance**.
