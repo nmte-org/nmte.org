@@ -46,4 +46,6 @@ Tickets are $25 ($20 with a Fringe button; $5 passholder reservations with a Mul
 
 [**Show page &amp; tickets at Minnesota Fringe →**](https://minnesotafringe.org/shows/2026/foshay-you-know-the-tower-now-hear-the-story){:target="_blank"}
 
+[**Interview with Kevin Bowen in the Twin Cities Arts Reader →**](https://twincitiesarts.com/2026/08/03/fringe-file-14-interview-foshay-foshay-foshay-with-kevin-bowen/){:target="_blank"}
+
 The Minnesota Fringe Festival is one of the largest performing arts festivals in the United States.
