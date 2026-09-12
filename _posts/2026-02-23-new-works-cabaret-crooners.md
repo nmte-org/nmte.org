@@ -9,7 +9,6 @@ time: "5:30 PM doors, 6:30 PM show"
 venue: "Crooners Supper Club — Dunsmore Jazz Room, Minneapolis"
 capacity: 87
 sold_out: true
-hero: true
 hero_title: "NMTE's 2026 New Works Cabaret Sells Out Crooners."
 promo_image: /assets/media/crooners-cabaret-2026/dunsmore-room-performance.jpg
 hero_carousel: "/assets/media/crooners-cabaret-2026/dunsmore-room-performance.jpg,/assets/media/crooners-cabaret-2026/cabaret-02.jpg,/assets/media/crooners-cabaret-2026/folks.png,/assets/media/crooners-cabaret-2026/cabaret-05.jpg,/assets/media/crooners-cabaret-2026/cabaret-07.jpg,/assets/media/crooners-cabaret-2026/cabaret-10.jpg"
