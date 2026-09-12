@@ -21,10 +21,10 @@ The show runs **6:00--7:30 PM** in Crooners' intimate 87-seat **Dunsmore Jazz Ro
 
 ### New Music By
 
-Brenda Varda · Maureen Kane Berg · Tom Berg · Kevin Bowen · Janet Preus · Marienne Kreitlow · Bob Derus · Mike Nilles · Rick Rhobajt Widen · Keith Benson
+Brenda Varda · Maureen Kane Berg · Tom Berg · Kevin Bowen · Janet Preus · Marienne Kreitlow · Bob Derus · Mike Nilles · Rick Rhobajt Widen · Keith Benson · Charles Betz
 
 ### Guest Performers
 
-Nicole Korbisch · Kiran Arquin · Maya Pantanowitz · Michael Burton · Alex Gerchak · Ella Rose Katzenberger on vocals, with **Martha Fischer** and **Brenda Varda** accompanying.
+Nicole Korbisch · Kiran Arquin · Maya Pantanowitz · Michael Burton · Alex Gerchak · Ella Rose Katzenberger · Jake Endres · Jen Burleigh-Bentz on vocals, with **Martha Fischer** and **Brenda Varda** accompanying.
 
 <p><a href="https://www.eventbrite.com/e/new-musical-theatre-exchanges-2026-fall-cabaret-tickets-2000073169691" target="_blank">🎟 Get tickets on Eventbrite</a> · <a href="https://www.croonersmn.com/event/new-musical-theatre-exchanges-2026-fall-cabaret/" target="_blank">Event page at Crooners</a></p>
