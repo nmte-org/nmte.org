@@ -11,7 +11,7 @@ capacity: 87
 featured: true
 hero: true
 hero_title: "NMTE's 2026 Fall Cabaret: October 12 at Crooners. Tickets on sale now."
-promo_image: /assets/media/crooners-cabaret-fall-2026/fall-cabaret-promo.jpg
+promo_image: /assets/media/crooners-cabaret-fall-2026/fall-cabaret-promo-2026.jpg
 ticket_url: https://www.eventbrite.com/e/new-musical-theatre-exchanges-2026-fall-cabaret-tickets-2000073169691
 ---
 
