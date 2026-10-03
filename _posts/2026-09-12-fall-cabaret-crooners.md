@@ -12,7 +12,7 @@ featured: true
 hero: true
 hero_title: "NMTE's 2026 Fall Cabaret: October 12 at Crooners. Tickets on sale now."
 promo_image: /assets/media/crooners-cabaret-fall-2026/fall-cabaret-promo-final.jpg
-ticket_url: https://www.eventbrite.com/e/new-musical-theatre-exchanges-2026-fall-cabaret-tickets-2000073169691
+ticket_url: https://www.croonersmn.com/event/new-musical-theatre-exchanges-2026-fall-cabaret/
 ---
 
 Come to the cabaret, old chum. The New Musical Theatre Exchange returns to <a href="https://www.croonersmn.com/" target="_blank">Crooners Supper Club</a> on **Monday, October 12** for its **2026 Fall Cabaret** -- an evening of the Twin Cities' best new musical theatre works, curated by the area's oldest musical theatre writers collective.
@@ -27,4 +27,4 @@ Brenda Varda · Maureen Kane Berg · Tom Berg · Kevin Bowen · Janet Preus · M
 
 Nicole Korbisch · Kiran Arquin · Maya Pantanowitz · Michael Burton · Alex Gerchak · Ella Rose Katzenberger · Jake Endres · Jen Burleigh-Bentz on vocals, with **Martha Fischer** and **Brenda Varda** accompanying.
 
-<p><a href="https://www.eventbrite.com/e/new-musical-theatre-exchanges-2026-fall-cabaret-tickets-2000073169691" target="_blank">🎟 Get tickets on Eventbrite</a> · <a href="https://www.croonersmn.com/event/new-musical-theatre-exchanges-2026-fall-cabaret/" target="_blank">Event page at Crooners</a></p>
+<p><a href="https://www.croonersmn.com/event/new-musical-theatre-exchanges-2026-fall-cabaret/" target="_blank">🎟 Get tickets at Crooners</a></p>
