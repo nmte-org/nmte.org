@@ -25,6 +25,6 @@ Brenda Varda · Maureen Kane Berg · Tom Berg · Kevin Bowen · Janet Preus · M
 
 ### Guest Performers
 
-Nicole Korbisch · Kiran Arquin · Maya Pantanowitz · Michael Burton · Alex Gerchak · Ella Rose Katzenberger · Jake Endres · Jen Burleigh-Bentz on vocals, with **Martha Fischer** and **Brenda Varda** accompanying.
+Nicole Korbisch · Kiran Arquin · Maya Pantanowitz · Michael Burton · Alex Gerchak · Ella Rose Katzenberger · Jake Endres · Jen Burleigh-Bentz · Andrew Shufman on vocals, with **Martha Fischer** and **Brenda Varda** accompanying.
 
 <p><a href="https://www.croonersmn.com/event/new-musical-theatre-exchanges-2026-fall-cabaret/" target="_blank">🎟 Get tickets at Crooners</a></p>
