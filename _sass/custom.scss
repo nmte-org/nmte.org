@@ -756,6 +756,15 @@ a.donate-btn:hover {
   display: block;
 }
 
+.carousel-caption {
+  margin: 0;
+  padding: 0.6rem 1rem;
+  background: #111;
+  color: #eee;
+  font-size: 0.95rem;
+  text-align: center;
+}
+
 .carousel-btn {
   position: absolute;
   top: 50%;

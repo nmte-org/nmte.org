@@ -1,9 +1,12 @@
 {% assign slides = include.images | split: "," %}
+{% if include.captions %}{% assign captions = include.captions | split: "|" %}{% endif %}
 <div class="carousel" id="{{ include.id | default: 'carousel' }}">
   <div class="carousel-track">
     {% for image in slides %}
     <div class="carousel-slide {% if forloop.first %}active{% endif %}">
-      <img src="{{ site.baseurl }}{{ image }}" alt="Photo {{ forloop.index }}">
+      {% assign caption = nil %}{% if captions %}{% assign caption = captions[forloop.index0] | strip %}{% endif %}
+      <img src="{{ site.baseurl }}{{ image | strip }}" alt="{% if caption %}{{ caption | strip_html | escape }}{% else %}Photo {{ forloop.index }}{% endif %}">
+      {% if caption %}<p class="carousel-caption">{{ caption }}</p>{% endif %}
     </div>
     {% endfor %}
   </div>
